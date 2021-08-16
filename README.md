@@ -8,7 +8,7 @@ Requirement :
 - Selenium    : https://selenium-python.readthedocs.io/installation.html
 
 Note :
-- Login used handler to anticipate twitter security system that does not allow to use email continuously, it is necessary to change with username
+- Login used handler to anticipate twitter security system that does not allow to use email for login continuously, it is necessary to change with username and there is also a handler to overcome bots which are given login with different layouts
 - Twitter posts cannot be the same, so unique value is needed in the form of decimal numbers.
 - This code run for Windows operating system, a little bit change will be necessary for Mac os and Linux in the image path. Because this script will create an image containing a screenshoot in the same place as the script is located
 
