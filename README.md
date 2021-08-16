@@ -10,7 +10,7 @@ Requirement :
 Note :
 - Login used handler to anticipate twitter security system that does not allow to use email continuously, it is necessary to change with username
 - Twitter posts cannot be the same, so unique value is needed in the form of decimal numbers.
-- This code run for Windows operating system, a little bit change will be necessary for Mac os and Linux in the image path
+- This code run for Windows operating system, a little bit change will be necessary for Mac os and Linux in the image path. Because this script will create an image containing a screenshoot in the same place as the script is located
 
 How to use
 - Download this repository
