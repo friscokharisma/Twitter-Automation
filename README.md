@@ -4,16 +4,13 @@ This automation was written on August 17, 2021, with the possibility of xpath ch
 
 Requirement :
 - Mozzila Firefox
-- Python v2.7
-- Selenium
+- Python v2.7 : https://www.python.org/downloads
+- Selenium    : https://selenium-python.readthedocs.io/installation.html
 
 Note :
 - Login used handler to anticipate twitter security system that does not allow to use email continuously, it is necessary to change with username
 - Twitter posts cannot be the same, so unique value is needed in the form of decimal numbers.
 - This code run for Windows operating system, a little bit change will be necessary for Mac os and Linux in the image path
-
-Install python	: https://www.python.org/downloads
-Selenium install	: https://selenium-python.readthedocs.io/installation.html
 
 How to use
 - Download this repository
