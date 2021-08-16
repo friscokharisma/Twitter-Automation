@@ -16,5 +16,9 @@ How to use
 - Download this repository
 - Extract the downloaded file
 - Run CMD
-- Move to Downloads
+- Move to Downloads\Twitter-Automation-main
 - Type : python codemi_test_qa_engineer.py and hit enter. As a result, you will get a tweet and an image post
+
+Additional information
+
+You can make account changes by changing the email variables and passwords in the script, you can also make content post changes to variable text_to_tweet
